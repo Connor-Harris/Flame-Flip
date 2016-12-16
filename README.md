@@ -1,6 +1,6 @@
 # Flame-Flip
 
-*The Web Version is now here: http://www.flameflip.com 
+*The Web Version is now here: <a href='http://flameflip.com' target='_blank'>http://flameflip.com</a>
 
 Flame-Flip is a budgeting app, written in Java, which allows home flippers to analyze potential deals and organize their plan and expenses during a renovation. It uses Java's swing package for its graphical user interface.
 
